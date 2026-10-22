@@ -209,11 +209,13 @@ Validate the hosted frontend, API, database connectivity, and fallback path.
 
 The complete demonstrable flow should be working, with methodology and limitations clearly documented.
 
-## Project Documentation
+## Project Management
 
-The GitHub Issues and linked Project contain the detailed implementation backlog, dependencies, acceptance criteria, and workstream breakdown.
+- **GitHub Project board:** [NASA Space Apps 2026 execution board](https://github.com/users/salmahmed6/projects/5/views/1)
+- **Implementation backlog:** [Repository Issues](https://github.com/salmahmed6/Harmonization-of-MODIS-and-VIIRS-Hot-Spots/issues)
+- **Board setup guide:** [PROJECT_BOARD.md](PROJECT_BOARD.md)
 
-See the repository's **Issues** and linked **Projects** tabs for the current execution state.
+The issue backlog documents objectives, deliverables, acceptance criteria, dependencies, and parallel-work rules. Configure the linked Project with the Workstream, Priority, Phase, Target date, and Blocked by fields described in `PROJECT_BOARD.md`. Recommended views are Execution Board, Workstream Backlog, Delivery Roadmap, Priority Triage, and Blocked Work. Keep issues unassigned until the team agrees on ownership.
 
 ## Challenge Focus
 
